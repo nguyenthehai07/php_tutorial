@@ -1,0 +1,40 @@
+.lb {
+	color: #015785;
+	font-weight: 600;
+}
+.char {
+	color: red;
+}
+input {
+	width: 100%;
+}
+img {
+	padding-left: 20px;
+}
+button.conten {
+	color: white;
+	background-color: #8bc248;
+	font-weight: 550;
+	width: 100%;
+}
+button.conten2 {
+	color: black;
+	background-color: white;
+	border: 1px solid black;
+	font-weight: 550;
+	width: 100%;
+}
+button:hover.conten3 {
+	color: black;
+	border: 1px solid black;
+}
+button:hover.conten4 {
+	color: white;
+	background-color: #8b8c8c;
+	transition: 0.3s;
+	font-weight: 550;
+	width: 100%;
+}
+.para {
+	color: red;
+}
